@@ -15,6 +15,7 @@
 ### Tools
 
 * 🍊 **[d4s](https://github.com/jr-k/d4s)** - Docker, Compose and Swarm from a fast terminal UI
+* 🛢️ **[silo](https://github.com/jr-k/silo)** - Projects organized, work simplified
 * ✉️ **[mailgress](https://github.com/jr-k/mailgress)** - Programmable email ingestion through webhooks
 * 📁 **[mountpad](https://github.com/jr-k/mountpad)** - File management for dedicated mountpoints
 * 🗃️ **[instantdbmyadmin](https://github.com/jr-k/instantdbmyadmin)** - A data explorer for InstantDB
