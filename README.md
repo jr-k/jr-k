@@ -6,9 +6,8 @@
 - I build complete products across healthcare, browser automation, digital signage and developer tooling. 
 - Some are open-source, some are businesses, or both.
 
-## Organizations
+## Main Projects
 
-- 🩺 **[Santé Académie](https://github.com/santeacademie)** - Healthcare education
 - 🤖 **[Puppetflow](https://github.com/puppetflow)** - Browser automation
 - 📺 **[Obscreen](https://github.com/obscreen)** - Digital signage
 
